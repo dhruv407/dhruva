@@ -1,0 +1,17 @@
+.git
+.ruff_cache
+data
+deploy/staging-data
+deploy/.env.example
+backend/.venv
+backend/__pycache__
+backend/tests
+frontend/node_modules
+frontend/dist
+frontend/test-results
+frontend/playwright-report
+**/__pycache__
+**/.pytest_cache
+**/.env
+**/*.log
+**/tsconfig.tsbuildinfo
